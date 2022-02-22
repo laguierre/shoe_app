@@ -11,12 +11,12 @@ Shoe Market App in Flutter using Provider.
 
 ## GIF
 <p align="center">
-<img src="https://github.com/laguierre/cuenta_dni_clone/blob/master/screenshots/body.gif" height="700">
+<img src="https://github.com/laguierre/shoe_app/blob/master/screenshots/untitled.gif" height="700">
 </p>
 
 ## Screenshots
 <p align="center">
-<img src="https://github.com/laguierre/cuenta_dni_clone/blob/master/screenshots/Screenshot_1644953358.png" height="700">
-<img src="https://github.com/laguierre/cuenta_dni_clone/blob/master/screenshots/Screenshot_1644953381.png" height="700">
+<img src="https://github.com/laguierre/shoe_app/blob/master/screenshots/Screenshot_1645489268.png" height="700">
+<img src="https://github.com/laguierre/shoe_app/blob/master/screenshots/Screenshot_1645489276.png" height="700">
 </p>
 
