@@ -1,16 +1,22 @@
-# shoe_app
+# Shoe Market App
 
-A new Flutter project.
+Shoe Market App in Flutter using Provider.
 
-## Getting Started
+## General Info
 
-This project is a starting point for a Flutter application.
+**Packages used:**
 
-A few resources to get you started if this is your first Flutter project:
+- animate_do: ^2.0.0 [link](https://pub.dev/packages/animate_do)
+- provider: ^6.0.1 [link](https://pub.dev/packages/provider)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## GIF
+<p align="center">
+<img src="https://github.com/laguierre/cuenta_dni_clone/blob/master/screenshots/body.gif" height="700">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p align="center">
+<img src="https://github.com/laguierre/cuenta_dni_clone/blob/master/screenshots/Screenshot_1644953358.png" height="700">
+<img src="https://github.com/laguierre/cuenta_dni_clone/blob/master/screenshots/Screenshot_1644953381.png" height="700">
+</p>
+
