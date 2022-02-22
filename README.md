@@ -1,6 +1,6 @@
 # Shoe Market App
 
-Shoe Market App in Flutter using Provider.
+Shoe Market App in Flutter using Provider and Hero transition.
 
 ## General Info
 
